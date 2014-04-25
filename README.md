@@ -19,11 +19,12 @@ To Run the code:-
 
 4. Please explore the code to see the commands for file download and file upload.
 
-5. The following commands are supported and worked for me:-
 
-a. fd f.jpg tcp //download file using tcp connection
-b. fd f.jpg udp //download file using udp connection
-c. fu f.jpg tcp
-d. fu f.jpg upd
-e. fu f.jpg udp ack //upload using ack
-f. fd f.jpg udp ack //downlad using ack
+The following commands are supported and worked for me:-
+
+1. fd f.jpg tcp //download file using tcp connection
+2. fd f.jpg udp //download file using udp connection
+3. fu f.jpg tcp
+4. fu f.jpg upd
+5. fu f.jpg udp ack //upload using ack
+6. fd f.jpg udp ack //downlad using ack
