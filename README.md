@@ -21,9 +21,9 @@ To Run the code:-
 
 5. The following commands are supported and worked for me:-
 
-	fd f.jpg tcp //download file using tcp connection
-	fd f.jpg udp //download file using udp connection
-	fu f.jpg tcp
-	fu f.jpg upd
-	fu f.jpg udp ack //upload using ack
-	fd f.jpg udp ack //downlad using ack
+	a) fd f.jpg tcp //download file using tcp connection
+	b) fd f.jpg udp //download file using udp connection
+	c) fu f.jpg tcp
+	d) fu f.jpg upd
+	e) fu f.jpg udp ack //upload using ack
+	f) fd f.jpg udp ack //downlad using ack
